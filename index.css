@@ -1,0 +1,19 @@
+body {
+    background-color: rgba(0, 0, 0, 0.315);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.primerTexto {
+    color: white;
+}
+
+#excusa {
+    color: white;
+}
+
+.tercerTexto {
+    color: white;
+}
